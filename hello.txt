@@ -5,4 +5,8 @@ hell
 oooo
 
 
+<<<<<<< HEAD
 master
+=======
+hot-fix hello
+>>>>>>> hot-fix
